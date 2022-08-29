@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+h1 {
+margin-top: 0;
+text-align: center;
+font-size: 50px;
+font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+
+.top-div {
+  background-color: rgb(0, 112, 97);
+  padding: 0px 100px 0px 100px;
+}
+
+.middle-div {
+
+}
+
+.bottom-div {
+
+}
+
+.pro {
+  color: brown;
+}
+
+#profition {
+  font-size: 50px;
+  color: rgb(0, 40, 27);
+  margin: 10px 0px 10px 0px;
+}
+
+.title {
+  color: rgb(0, 17, 17);
+  padding: 40px 0px 0px 0px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.profile-div {
+  margin-top: 0px;
+  background-color: rgb(0, 58, 57);
+}
+
+.profile-img{
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+  margin-top: 45px;
+  border-radius: 100%;
+
+}
+
+.hello-text {
+  font-size: 60px;
+  color: rgb(0, 208, 191);
+  margin: 0;
+}
+
+.intro {
+  margin: 0px 345px 0px 345px;
+  color: rgb(141, 255, 255);
+  padding: 0px 0px 30px 0px;
+}
+
+.bottom-div {
+  background-color: rgb(0, 61, 76);
+}
+
+.for-who{
+  color: rgb(0, 168, 225);
+  font-size: 35px;
+}
+
+.hima-info-1 {
+  margin: 0px 150px 0px 150px;
+  font-size: 30px;
+  padding-bottom: 20px;
+  line-height: 90%;
+  color: rgb(0, 160, 209);
+}
+
+.hime-info-2 {
+  margin: 0px 150px 0px 150px;
+  font-size: 30px;
+  padding-bottom: 40px;
+  line-height: 90%;
+  color: rgb(0, 160, 209);
+}
+
+.fixed-div {
+  background-color: rgb(0, 27, 37);
+  width: 100%;
+  margin: 0px;
+  height: 60px;
+}
+
+.fixed-text {
+  display: inline;
+  text-align: right;
+  font-size: 30px;
+  margin: 0px;
+  color: rgb(79, 190, 255);
+
+}
+
+.instagram-logo {
+  position: relative;
+  left: 30px;
+  top: 7px;
+  width: 40px;
+  height: 40px;
+}
